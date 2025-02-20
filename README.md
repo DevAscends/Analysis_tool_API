@@ -6,6 +6,20 @@
 
 First, ensure you have Python 3.8+ installed. Then, install the required dependencies:
 
+### Clone the Repository:
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/Analysis_tool_API.git
+```
+
+Next 
+```bash
+cd Analysis_tool_API
+```
+
+Then
 ```bash
 pip install -r requirements.txt
 ```
